@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2019 Ein Typ <dongkingkong0@gmail.com> -->
+<component type="desktop">
+  <id>com.github.dongkingkong0.gtk-hello</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello Gtk</name>
+  <summary>Gtk Example Application</summary>
+  <description>
+    <p>you should really install this awesome application.</p>
+    <p>no really, why wouldn't you want a window with a giant button that you can click?</p>
+  </description>
+  <custom>
+    <value key="x-appcenter-color-primary">#555</value>
+    <value key="x-appcenter-color-primary-text">#fff</value>
+  </custom>
+</component>
