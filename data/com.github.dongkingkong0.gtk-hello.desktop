@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hello Gtk
+GenericName=Gtk Example Application
+Comment=yes, i do code
+# very useful, you can learn a lot by pressing a button, and the graphics are awesome
+Categories=Utility;Education;Graphics;
+Exec=com.github.dongkingkong0.gtk-hello
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Awesome;No;Really;
